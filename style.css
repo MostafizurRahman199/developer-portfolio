@@ -28,6 +28,23 @@ h2{
   box-shadow: 10px 10px 20px grey;
   padding-left: 20px;
   border-radius: 5px;
+ 
+  
+}
+
+#baby-developer
+{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+
+}
+#full-stack
+{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(238, 121, 209),rgb(55, 1, 248));
+    border-image-slice: 1;
+
 }
 
 .experience-area{
@@ -65,4 +82,8 @@ h2{
 }
 #resume-button{
    
+}
+
+footer p{
+    text-align: center;
 }
